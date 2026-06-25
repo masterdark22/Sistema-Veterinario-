@@ -1,4 +1,0 @@
-allowBuilds:
-  '@apollo/protobufjs': false
-  '@nestjs/core': true
-  unrs-resolver: true
